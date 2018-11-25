@@ -5,4 +5,4 @@ pandas
 vdom
 matplotlib
 scipy
-Bio
+package bio
